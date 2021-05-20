@@ -4,8 +4,6 @@ calculate and print the average of those values.
 */
 
 #include <stdio.h>
-#include <stdbool.h>
-
 
 int main()
 {

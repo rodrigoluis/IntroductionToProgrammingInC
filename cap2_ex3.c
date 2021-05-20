@@ -4,8 +4,6 @@ The conversion formula: F = (9 * C + 160) / 5.
 */
 
 #include <stdio.h>
-#include <stdbool.h>
-
 
 int main()
 {

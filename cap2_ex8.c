@@ -4,8 +4,6 @@ using the formula volume = length * width * height.
 */
 
 #include <stdio.h>
-#include <stdbool.h>
-
 
 int main()
 {

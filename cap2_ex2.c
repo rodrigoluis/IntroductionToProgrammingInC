@@ -5,8 +5,6 @@ Print the value 2.346728 with 1, 2, 3 and 5 decimal places.
 */
 
 #include <stdio.h>
-#include <stdbool.h>
-
 
 int main()
 {

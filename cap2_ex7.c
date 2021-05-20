@@ -4,8 +4,6 @@ using the formula volume = 3.14159 * radius * radius * height.
 */
 
 #include <stdio.h>
-#include <stdbool.h>
-
 
 int main()
 {

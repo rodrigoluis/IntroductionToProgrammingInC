@@ -7,8 +7,6 @@ age and in the third your height.
 */
 
 #include <stdio.h>
-#include <stdbool.h>
-
 
 int main()
 {
