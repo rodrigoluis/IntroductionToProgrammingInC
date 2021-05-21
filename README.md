@@ -5,4 +5,4 @@ Solutions for the exercises presented in the ebook "Algorithms in C - The Beginn
 You can find the book in the links bellow.
 
 Portuguese version:
-https://www.amazon.com/gp/product/B095J5T1HK/ref=dbs_a_def_rwt_bibl_vppi_i0
+https://www.amazon.com.br/Algoritmos-Guia-Iniciante-Rodrigo-Silva-ebook/dp/B095J5T1HK/
