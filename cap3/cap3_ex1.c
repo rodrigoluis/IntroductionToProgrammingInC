@@ -1,22 +1,23 @@
 /*
-Write a function to receive a person's age in years, months and days 
-and return that age expressed in days. Consider each year has 365 days
- and each month has 30 days. Print the computed days in the main function.
+Write a function to receive two integers and print the product of those values.
 */
 
 #include <stdio.h>
+#include <math.h>
 
-int computeAge(int year, int months, int days)
+void printProduct(int n1, int n2)
 {
-    int ageInDays = 0;
-    ageInDays = 365 * year + 30 * months + days;
+    int p;
+    p = n1 * n2;
+    printf("Product: %d\n", p);
+
 }
 
 int main()
 {
-    // Testing the function
-    int output;
-    output = computeAge(23, 7, 15);
-    printf("Number of computed days:  %d\n", output);
+    int n1, n2;
+    printf("Inform two integers: ");
+    scanf("%d %d", &n1, &n2);
+    printProduct(n1, n2);
     return 0;
 }
