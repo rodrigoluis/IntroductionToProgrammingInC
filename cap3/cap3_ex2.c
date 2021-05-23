@@ -17,7 +17,6 @@ void duration(int sec)
 
 int main()
 {
-    // Testing the function
     duration(10925); // Expected 03:02:03
     return 0;
 }
