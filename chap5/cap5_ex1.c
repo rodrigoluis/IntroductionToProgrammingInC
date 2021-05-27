@@ -1,5 +1,5 @@
 /*
-Develop a function to print all even numbers in the range 1-100.
+Write a function to print all even numbers in the range 1-100.
 */
 
 #include <stdio.h>
