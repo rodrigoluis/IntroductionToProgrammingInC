@@ -24,5 +24,8 @@ int main()
     fgets(s, 100, stdin);
     spaces = countSpaces(s);
     printf("Number of Spaces: %d\n", spaces);
+
+    printf("%d\n",__STDC_VERSION__);
+
     return 0;
 }
