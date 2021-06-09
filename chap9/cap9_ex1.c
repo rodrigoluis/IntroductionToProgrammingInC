@@ -18,10 +18,10 @@ int main()
 {
     student s1;
     printf("Inform student's name: ");
-    fgets(s1.name, 100, stdin);
+    fgets(s1.name, sizeof(s1.name), stdin);
 
     printf("Inform student's course: ");
-    fgets(s1.course, 40, stdin);
+    fgets(s1.course, sizeof(s1.course), stdin);
 
     printf("Inform student's age: ");
     scanf("%d", &s1.age);
